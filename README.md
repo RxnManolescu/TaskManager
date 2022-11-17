@@ -10,7 +10,7 @@ This project allows a business to manage tasks assigned to each member of the te
 
 ## Coding aspects
 * two .txt files have been used as databases for the users list and the tasks list
-* the **"datetime"** module has been imported in order to specify when *a task is due* and when it was initialyy *assigned*
+* the **"datetime"** module has been imported in order to specify when *a task is due* and when it was initially *assigned*
 * this program has been created with the help of a *dictionary* to retrieve information
 * the **entire** program has been created with the help of *while* and *for* loops and *if-else* statements
 
