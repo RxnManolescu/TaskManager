@@ -2,7 +2,7 @@
 
 System Managing programs are used widely in order to allow businesses to retrieve and manipulate specific data.
 ## Project Description
-This project allows a business to manage tasks assigned to each member of the team.
+This project allows a business to manage tasks assigned to each member of the team. There are two separate projects that have been created in order to accomplish the requirements: **task_manager.py** file meets the basic requirements and **task_manager_updated.py** file implements more advanced features on the initial requirements.
 ## Features:
 * The user is prompted to enter their username and password in order to login and the program allows access to the Task system only after validating the credentials. Should the credentials be wrong, the user will attempt again. When logged in, a menu is displayed. 
 * The user then has the options of *adding a task* by specifying the user to whom the task is to be assigned, *view all tasks* where the user is able to view all tasks assigned to all team members, *view own tasks* which allows user to view only the tasks that relate to themselves.
