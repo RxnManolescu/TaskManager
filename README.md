@@ -9,7 +9,7 @@ This project allows a business to manage tasks assigned to each member of the te
 * If the logged in username is **"admin"**, additional options are available such as *registering new user* by providing new login credentials, and *display statistics* where a list of *total number of tasks* and *total number of users* is displayed in a user-friendly manner.
 
 ## Coding aspects
-* two .txt files have been used as databases for the users list and the tasks list
+* four .txt files have been used as databases in order to store a list of *users*, *tasks*, *tasts statistics* and *user statistics*
 * the **"datetime"** module has been imported in order to specify when *a task is due* and when it was initially *assigned*
 * this program has been created with the help of a *dictionary* to retrieve information
 * the **entire** program has been created with the help of *while* and *for* loops and *if-else* statements
