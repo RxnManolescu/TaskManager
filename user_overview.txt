@@ -1,0 +1,25 @@
+PLEASE SEE BELOW USERS REPORT!
+
+The total numbers of users is: 3
+Total number of tasks is 10
+
+		admin:
+Number of tasks assigned: 3
+The percentage of total assigned: 30.0 %
+The percentage assigned completed: 100.0 %
+The percentage assigned incomplete: 0.0 %
+The percentage assigned overdue: 0.0 %
+
+		ana:
+Number of tasks assigned: 4
+The percentage of total assigned: 40.0 %
+The percentage assigned completed: 25.0 %
+The percentage assigned incomplete: 75.0 %
+The percentage assigned overdue: 50.0 %
+
+		john:
+Number of tasks assigned: 3
+The percentage of total assigned: 30.0 %
+The percentage assigned completed: 33.33 %
+The percentage assigned incomplete: 66.67 %
+The percentage assigned overdue: 66.67 %
